@@ -1,0 +1,11 @@
+"","X","loan_amnt","term","installment","grade","sub_grade","home_ownership","annual_inc","purpose","rate","emp","Status"
+"1",1,5000," 36 months",162.87,"B","B2","RENT",24000,"credit_card",10.65,10,0
+"2",2,2500," 60 months",59.83,"C","C4","RENT",30000,"car",15.27,0.5,1
+"3",3,2400," 36 months",84.33,"C","C5","RENT",12252,"small_business",15.96,10,0
+"4",4,10000," 36 months",339.31,"C","C1","RENT",49200,"other",13.49,10,0
+"5",5,5000," 36 months",156.46,"A","A4","RENT",36000,"wedding",7.9,3,0
+"6",6,3000," 36 months",109.43,"E","E1","RENT",48000,"car",18.64,9,0
+"7",7,5600," 60 months",152.39,"F","F2","OWN",40000,"small_business",21.28,4,1
+"8",8,5375," 60 months",121.45,"B","B5","RENT",15000,"other",12.69,0.5,1
+"9",9,6500," 60 months",153.45,"C","C3","OWN",72000,"debt_consolidation",14.65,5,0
+"10",10,12000," 36 months",402.54,"B","B5","OWN",75000,"debt_consolidation",12.69,10,0

@@ -1,0 +1,12 @@
+name: appe-score
+title: appe-score
+username:
+account: tizly
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 909233
+bundleId: 2062379
+url: https://tizly.shinyapps.io/appe-score/
+when: 1557100322.28997
+asMultiple: FALSE
+asStatic: FALSE
